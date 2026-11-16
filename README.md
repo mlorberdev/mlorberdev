@@ -1,16 +1,31 @@
-## Hi there 👋
+# Matthew Lorber
 
-<!--
-**mlorberdev/mlorberdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Texas-certified Mathematics and Computer Science educator with certifications in Mathematics (4-8, 8-12), Computer Science (8-12), Special Education (EC-12), and ESL.
 
-Here are some ideas to get you started:
+Experienced in STEM education, robotics, engineering design, and project-based learning. FIRST Robotics mentor, UIL Computer Science coach, and founder of a secondary programming club.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently teaching mathematics and computer science while mentoring FIRST Robotics Competition students, coaching UIL Mathematics and Computer Science teams, and leading student programming initiatives.
+
+## Education Interests
+
+- STEM Education
+- Computer Science Education
+- Robotics
+- Engineering Design
+- Computational Thinking
+- Project-Based Learning
+- Educational Technology
+
+## Technical Skills
+
+- Python
+- Java
+- JavaScript
+- HTML/CSS
+- SQL / NoSQL
+- CAD
+- Full-Stack Web Development
+
+## Current Focus
+
+Building engaging STEM learning experiences that connect mathematics, engineering, programming, and real-world problem solving.
