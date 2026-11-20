@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Avatar.png" width="180" alt="Matthew Lorber avatar">
+  <img src="./Banner.png" width="100%" alt="Matthew Lorber STEM Education Banner">
 </p>
 
 # Matthew H. Lorber
